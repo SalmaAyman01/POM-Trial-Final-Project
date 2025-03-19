@@ -6,6 +6,7 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeSuite;
 
+//common class
 public class BaseTest {
 
    protected WebDriver driver;

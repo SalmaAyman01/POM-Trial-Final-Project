@@ -8,7 +8,7 @@ import org.openqa.selenium.WebDriver;
 import java.io.FileInputStream;
 import java.io.IOException;
 
-// Cart Page class
+// Cart Page class111
 public class CartPage {
 
     WebDriver driver;

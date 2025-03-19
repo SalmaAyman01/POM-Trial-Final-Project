@@ -162,5 +162,6 @@ public class CartTestCases extends BaseTest{
         // Validate total price
         Assert.assertEquals(actualTotal, expectedTotal, "Total price validation failed!");
         System.out.println("Total price validation passed!");
+
     }
 }
